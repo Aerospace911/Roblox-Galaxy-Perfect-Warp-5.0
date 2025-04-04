@@ -9,7 +9,7 @@
 # [Click to go to Downloads](https://github.com/Aerospace911/Roblox-Galaxy-Perfect-Warp-5.0/releases/tag/v5.0)
 
 # How It Works
-Perfect Warp 5.0 is the most accurate Perfect Warp that I have created
+Perfect Warp 5.0 is the most accurate Perfect Warp that I have created.
 
 
 When you plot the X Cord of the warp bar notches with it's warp disance, you get a exponential relationship. Now when given "Y" or distance, you undo this relationships to find X or the X cord on the war bar that represents that distance. The script then watches that X cord and warps when the color changes (from the warp bar).
