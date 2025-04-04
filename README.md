@@ -9,7 +9,7 @@
 Perfect Warp 5.0 is the most accurate Perfect Warp that I have created
 
 
-# [Click to go to Downloads](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
+# [Click to go to Downloads](https://github.com/Aerospace911/Roblox-Galaxy-Perfect-Warp-5.0/releases/tag/v5.0)
 
 
 ### NOTICE 
@@ -88,4 +88,4 @@ Once you push "V" and the warp bar appears, the script will place a line on the 
 
 # Troubleshooting
 1. Press Ctrl + Alt + R. This reloads the program.
-2. If you still have issues or need help setting up, make an issue on the [issues page](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/issues/new)
+2. If you still have issues or need help setting up, make an issue on the [issues page]([https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/issues/new](https://github.com/Aerospace911/Roblox-Galaxy-Perfect-Warp-5.0/issues/new))
