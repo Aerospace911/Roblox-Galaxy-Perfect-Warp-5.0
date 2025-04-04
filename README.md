@@ -1,4 +1,7 @@
-# Roblox Galaxy Perfect Warp 5.0 ~~(Legal Version)~~
+# Roblox Galaxy Perfect Warp 5.0 
+
+# BEING CAUGHT USING THIS SCRIPT AND DISTRIBUTING IS A BANNABLE OFFENSE. 
+## Learn how to stay hidden at [Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1](https://github.com/Aerospace911/Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1)
 
 ## IMPORTANT NOTE: A HIGHIER VERSION NUMBER DOES NOT MEAN IT'S BETTER. IT ONLY SIGNIFIES A DIFFERENT METHOD.
 
@@ -10,6 +13,9 @@ Perfect Warp 5.0 is the most accurate Perfect Warp that I have created
 
 
 # [Click to go to Downloads](https://github.com/Aerospace911/Roblox-Galaxy-Perfect-Warp-5.0/releases/tag/v5.0)
+
+# How It Works
+When you plot the X Cord of the warp bar notches with it's warp disance, you get a exponential relationship. Now when given "Y" or distance, you undo this relationships to find X or the X cord on the war bar that represents that distance. The script then watches that X cord and warps when the color changes (from the warp bar).
 
 
 ### NOTICE 
